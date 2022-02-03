@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0a5c5e0d855c414f",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a9efc36dd5bac5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f924603467c203",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94c700fa2d8353d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fec52f13f2502e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55bddfcc7810d6ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e175b3a1e7cb1c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "04661964b3353b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3859f0624e3e82b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "81a9efc36dd5bac5",
+  "lastOpenFiles": [
+    "Characters/Party/Breda.md",
+    "Sessions/2022-02-02 - Beginnings.md",
+    "Characters/Party/Calcite.md",
+    "Characters/Party/Katiz.md",
+    "Characters/Party/Melyana.md",
+    "Characters/Party/Renry.md",
+    "Characters/Fianna Willowblaze.md",
+    "Letters/Fianna/Fianna's Request.md",
+    "Quests.md",
+    "Tower.md"
+  ]
+}
