@@ -6,4 +6,8 @@ Run by a single Prime Minister
 
 Agriculture is its strength but not its power.
 
+## Bloodlines in Ghor Felno
+
+The [[Monty]] bloodline may be able to be found in Ghor Felno.
+
 
