@@ -7,8 +7,12 @@
         "id": "81a9efc36dd5bac5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "81a9efc36dd5bac5",
   "lastOpenFiles": [
-    "Characters/Party/Breda.md",
-    "Sessions/2022-02-02 - Beginnings.md",
-    "Characters/Party/Calcite.md",
-    "Characters/Party/Katiz.md",
-    "Characters/Party/Melyana.md",
-    "Characters/Party/Renry.md",
-    "Characters/Fianna Willowblaze.md",
-    "Letters/Fianna/Fianna's Request.md",
+    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
     "Quests.md",
-    "Tower.md"
+    "Game.md",
+    "Tower.md",
+    "Sessions/2022-02-02 - Beginnings.md",
+    "Eleroth.md",
+    "Bruiseball.md",
+    "Characters/Party/Breda.md",
+    "Characters/Party/Calcite.md",
+    "Characters/Party/Katiz.md"
   ]
 }
