@@ -15,7 +15,7 @@ Inevitably people come to enjoy the final day even if they're here for other rea
 
 Giant rows, 5 person abrest going north and 5 going south.
 
-Some douchebag tries to tell Breda he could make her wares cheaper and that she couldn't have made them all.
+Some douchebag tries to tell [[Breda]] he could make her wares cheaper and that she couldn't have made them all.
 
 Calcite stops by as I scare the douchebag off.
 
@@ -472,7 +472,7 @@ He takes a step through the snow trying as hard is he can. This is so unnatural 
 Becomes nearly impossible to stay in the water. Before the water crests his neck he swears he can hear a voice calling out. Like someone you know. It just says "dad?" as the water takes him. Fades out.
 
 ---
-### Breda's Dream
+### [[Breda]]'s Dream
 
 Im in an orchard with rows of trees perfectly organized. theyre made of copper and gold and silver and iron. theyre decorated with these bright red and green leaves and colorful fruits. theyre beatiful.
 

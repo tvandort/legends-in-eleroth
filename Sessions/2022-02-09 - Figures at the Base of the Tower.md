@@ -60,25 +60,25 @@ We check for listening devices.
 
 Katiz implies someone may have known this was going to happen.
 
-Zidall, very ornate robes in the colors of the Shevet. Human.
+[[Zidall]], very ornate robes in the colors of the Shevet. Human.
 
 Thousands of years ago the tower also did a lighty thing. 5 original individuals (voices) this has happened to before.
 
 Came through the tower and spoke to the five original bodies. 5 souls of the contract.
 
-Jordel not looking at Zidall out of reverence.
+Jordel not looking at [[Zidall]] out of reverence.
 
 Jordel leaves the room.
 
 > Z: The contract that kept the power in check. It seems the last time the light was seen was the last time that the power leaked out into the world.
 
-Zidall doesn't know what the planes relate to the tower specifically for. Pauses when Mely mentions #the-chains. 
+[[Zidall]] doesn't know what the planes relate to the tower specifically for. Pauses when Mely mentions #the-chains. 
 
 > Z: Some say the chains keep the planes together but this isn't true.
 
 5 Contracts passed down through blood lines.
 
-Zidall claims that there are claims that there are 5 bloodlines alive today still.
+[[Zidall]] claims that there are claims that there are 5 bloodlines alive today still.
 
 Original 5 lost to time. Current 5 are any possiblility. Bloodline passed and mingled through so many different people, families, eternal beings.
 

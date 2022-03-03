@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/2022-03-02.md",
+            "file": "Places/Ghor Felno.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2022-03-02.md",
+                "file": "Places/Ghor Felno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "81a9efc36dd5bac5",
   "lastOpenFiles": [
-    "Sessions/2022-03-02.md",
-    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
-    "Letters/Fianna/Fianna's Request.md",
-    "Characters/Sheveten/Zidall.md",
+    "Places/Ghor Felno.md",
     "Places/Wolfren.md",
+    "Sessions/2022-02-02 - Beginnings.md",
+    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
+    "Sessions/2022-03-02.md",
     "Bruiseball.md",
-    "Eleroth.md",
-    "Game.md",
-    "Quests.md",
-    "Tower.md"
+    "Tower.md",
+    "Characters/Party/Breda.md",
+    "Characters/Sheveten/Zidall.md",
+    "Places/Utheria.md"
   ]
 }
