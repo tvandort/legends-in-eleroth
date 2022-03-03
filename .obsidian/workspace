@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Sheveten/Zidall.md",
+            "file": "Sessions/2022-03-02.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Sheveten/Zidall.md",
+                "file": "Sessions/2022-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "81a9efc36dd5bac5",
   "lastOpenFiles": [
+    "Sessions/2022-03-02.md",
+    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
+    "Letters/Fianna/Fianna's Request.md",
     "Characters/Sheveten/Zidall.md",
     "Places/Wolfren.md",
-    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
     "Bruiseball.md",
     "Eleroth.md",
     "Game.md",
     "Quests.md",
-    "Tower.md",
-    "Characters/Monty Bloodline.md",
-    "Characters/Fianna Willowblaze.md"
+    "Tower.md"
   ]
 }
