@@ -2,11 +2,11 @@ Geography unlikely to change.
 Towns and climate might.
 Continent not planet.
 
-South east where Wolfren is like NE America. Cold winters and temperate summers.
+South east where [[Wolfren]] is like NE America. Cold winters and temperate summers.
 
 North east near gorfelno sort of like a SE America, swampy wetlands.
 
-NW utheria souther california, temperate year round very green not a whole lot of weather.
+NW [[utheria]] souther california, temperate year round very green not a whole lot of weather.
 
 SW [[shuliman]]
 

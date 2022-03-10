@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Katiz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,14 +90,14 @@
   "active": "81a9efc36dd5bac5",
   "lastOpenFiles": [
     "Sessions/2022-03-09.md",
-    "Quests.md",
     "Sessions/2022-03-02.md",
-    "Places/Ghor Felno.md",
-    "Places/Wolfren.md",
-    "Sessions/2022-02-02 - Beginnings.md",
-    "Sessions/2022-02-09 - Figures at the Base of the Tower.md",
-    "Bruiseball.md",
     "Tower.md",
-    "Characters/Party/Breda.md"
+    "Quests.md",
+    "Game.md",
+    "Sessions/2022-02-02 - Beginnings.md",
+    "Eleroth.md",
+    "Bruiseball.md",
+    "Places/Wolfren.md",
+    "Places/The Shevet.md"
   ]
 }

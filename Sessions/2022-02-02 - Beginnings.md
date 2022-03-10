@@ -17,7 +17,7 @@ Giant rows, 5 person abrest going north and 5 going south.
 
 Some douchebag tries to tell [[Breda]] he could make her wares cheaper and that she couldn't have made them all.
 
-Calcite stops by as I scare the douchebag off.
+[[Calcite]] stops by as I scare the douchebag off.
 
 ---
 
@@ -25,26 +25,26 @@ Calcite stops by as I scare the douchebag off.
 ### The Stadium
 Close to the size of a football field. Lrage stones n shit. Going at it fights, spell slinging.
 
-In a small booth that is near the center of the field slightly elevated is Katiz.
+In a small booth that is near the center of the field slightly elevated is [[Katiz]].
 
 5'5" half orc, red bandana with his hair in a ponytail. Half hung over looking around taking in the crowd thinking of his glory days doing the same.
 
 Small ball on chain around neck rolling it around in his fingers lost in thought.
 
-Wolfren vs Utheria game. Katiz seems to be commenting.
+[[Wolfren]] vs [[Utheria]] game. [[Katiz]] seems to be commenting.
 
-Wolfren:
+[[Wolfren]]:
 Centaur
 Werewolf
 Two Dwarves
 Aarokorcra
 
-Utheria:
+[[Utheria]]:
 at least 2 Elves
 Halfling
 Warforged
 
-Wolfren 10 people against 5.
+[[Wolfren]] 10 people against 5.
 
 Two mic stands using Thaumaturgy.
 
@@ -52,13 +52,13 @@ Two elves taken out by the werewolf.
 
 Wave of bluish energy erupts from halfling, hits someone and gets flung back 20 feet.
 
-Utherian spellcaster attempts to lightning bolt through the field and attempts to hit last wolfren person but instead hits another human who they were stiff arming.
+Utherian spellcaster attempts to lightning bolt through the field and attempts to hit last [[wolfren]] person but instead hits another human who they were stiff arming.
 
-As soon as the last Wolfren gets hits its 2 Utherians left.
+As soon as the last [[Wolfren]] gets hits its 2 Utherians left.
 
 Utherians win as underdogs.
 
-Katiz recognizes Baker. 
+[[Katiz]] recognizes Baker. 
 
 > B: did you enjoy a little taste of the old life?
 > K: Honestly its just a sore reminder at this point of what could have been. But it pays the bills.
@@ -71,15 +71,15 @@ Takes out a paper parcel wrapped in twine.
 
 > B: You know the drill, usual deaddrops, usual locations. There's a bench that I've marked with an X, hard to miss you've seen it before.
 > K: I'll take care of it.
-> B: I know you will Katiz you've always done good work with me.
+> B: I know you will [[Katiz]] you've always done good work with me.
 
-Katiz fights the urge to push this guy out of the booth so badly.
+[[Katiz]] fights the urge to push this guy out of the booth so badly.
 
 ---
 
 ### Games area
 
-Katiz goes to the games area to find the bench.
+[[Katiz]] goes to the games area to find the bench.
 
 Similar to the market there are a bunch of stalls, but where you'd usually find food you see games setup stuff any sort of games.
 
@@ -87,7 +87,7 @@ From cornhole to guessing games, to pop the baloon. All sorts of street games.
 
 We meet someone who is eye up these games very intently.
 
-Renry: Standing somewhat impatiently looking around at games figuring out where to go first.
+[[Renry]]: Standing somewhat impatiently looking around at games figuring out where to go first.
 
 Tall but not super tall.
 
@@ -97,7 +97,7 @@ Here to cause some mayhem and chaos
 
 Feels some kind of wind or force guiding her. 
 
-Renry comes across a test of strength. One of those mallet games.
+[[Renry]] comes across a test of strength. One of those mallet games.
 
 Big orc comes up to the game after being drawn in by the dwarf running the game. Decent mallet, probably 50 pounds. Picks it up like its nothing. 
 
@@ -105,22 +105,22 @@ The spring that moves the metal up to the bell seems a little fucked up like its
 
 Nearby there's a booth selling meat skewers and small cages with some animals in it.
 
-First nat 20 for 24 is for Renry. She walks up to the side of the booth to the six individual cages. Each one is filled with 4 or 5 little furry animals. Chipmunks, squirrels, mice rats. Everyone is either looking at the orc who's destroying the test of strength or the skewers being like "idk about that man." 
+First nat 20 for 24 is for [[Renry]]. She walks up to the side of the booth to the six individual cages. Each one is filled with 4 or 5 little furry animals. Chipmunks, squirrels, mice rats. Everyone is either looking at the orc who's destroying the test of strength or the skewers being like "idk about that man." 
 
-Renry sidles up to the side of it gives it a quick turn and no one even notices her there.
+[[Renry]] sidles up to the side of it gives it a quick turn and no one even notices her there.
 
-Renry lets her mouse run down her arm as she goes to free the animals. She feels that wind thing again and now they suddenly all look up at her. Most of them were resigned but now they look up.
+[[Renry]] lets her mouse run down her arm as she goes to free the animals. She feels that wind thing again and now they suddenly all look up at her. Most of them were resigned but now they look up.
 
-Renry smiles brightly at them and goes to open the cage in a quiet manner.
+[[Renry]] smiles brightly at them and goes to open the cage in a quiet manner.
 
-Calcite is walking by but completely misses this.
+[[Calcite]] is walking by but completely misses this.
 
 Animals burst out some onlookers scream. THe animals run out into the street.
 
 Vendor goes 
 > OH SHIT NOT AGAIN
 
-Renry is a fucking ham lmao.
+[[Renry]] is a fucking ham lmao.
 
 Tries to amp up the people freaking out.
 
@@ -134,11 +134,11 @@ A crowd gathers around the chaos.
 
 Vendor is running through the crowd with a bloody cleaver trying to get his merchandise back.
 
-Calcite chases after him asking for a statement. 
+[[Calcite]] chases after him asking for a statement. 
 
 Vendor realises he's yelling at the guard and shuts down.
 
-Calcite is holding his big tomb trying to get out a small notebook.
+[[Calcite]] is holding his big tomb trying to get out a small notebook.
 
 > C: Yes what is your statement.
 > V: My, my animals got out and I need them back.
@@ -147,28 +147,28 @@ Calcite is holding his big tomb trying to get out a small notebook.
 
 Vendor slowly takes cleaver back out and dashes off.
 
-Renry goes around telling the story embellishing each time so that the story becomes a known thing.
+[[Renry]] goes around telling the story embellishing each time so that the story becomes a known thing.
 
 The legend of the furry animal army gets around. Everyone knows about the gigantic rat that took a bite out an orc and an orc that tried to beat his way out of a crowd. The story has really taken on a life of its own.
 
-Renry is pleased with herself.
+[[Renry]] is pleased with herself.
 
 --- 
 
-Katiz picks up the package he was directed to. About 5 pounds soft, a little give with something that isn't soft too.
+[[Katiz]] picks up the package he was directed to. About 5 pounds soft, a little give with something that isn't soft too.
 
 Considers opening the parcel. Just before he finishes opening it he stops himself realizing that it would be hard to make it look like he's found it. Puts the parcel where he would normally put it.
 
 Pulls a roll of cloth with a slick of tar on it and sticks it to the bottom of the bench.
 
-Katiz lifts a couple of meat sticks.
+[[Katiz]] lifts a couple of meat sticks.
 
-Renry notices a half orc walk up to the stall grabbing two skewers.
+[[Renry]] notices a half orc walk up to the stall grabbing two skewers.
 
-Renry leans in close taxes Katiz.
+[[Renry]] leans in close taxes [[Katiz]].
 
 > K: I hate taxes...
-> *K: Grabs a third and hands it to Renry*
+> *K: Grabs a third and hands it to [[Renry]]*
 
 Some other people now go up and take some of the skewers as well.
 
@@ -182,7 +182,7 @@ Along this big main street tons of floats that people have created are on show. 
 
 Behind a window an elf sits with another elf enjoying a drink.
 
-Mely or Melyana is sitting right now, shes six feet even, taller than most elves but not tallest around. Pale skin with a bit of tan on areas that would not be covered by hood or cloak.
+Mely or [[Melyana]] is sitting right now, shes six feet even, taller than most elves but not tallest around. Pale skin with a bit of tan on areas that would not be covered by hood or cloak.
 
 Very wild red hair cascading down her back.
 
@@ -223,9 +223,9 @@ The cafe mutes the noise of the parade outside but its still loud in here.
 > A: Ah students have meddled in magic they never should have been she thought somehow she was going to be different. 
 > *A: looks back out the window*
 
-In the parade there's a procession of floats and guards marching to the beat of a a drum in front of them. There's a colorguard with dancers on their sides. Calcite is in the middle twirling the flags of Kirkwal and Jresalla. Has a big wide grin on his face and is enjoying his time with it, couldn't be more honored. 
+In the parade there's a procession of floats and guards marching to the beat of a a drum in front of them. There's a colorguard with dancers on their sides. [[Calcite]] is in the middle twirling the flags of Kirkwal and Jresalla. Has a big wide grin on his face and is enjoying his time with it, couldn't be more honored. 
 
-Calcite is going at it twirling the flags all over the place with extra embelishments not in the choreography. The guards are kinda like wtf but the dancers are picking up the energy he's putting down.
+[[Calcite]] is going at it twirling the flags all over the place with extra embelishments not in the choreography. The guards are kinda like wtf but the dancers are picking up the energy he's putting down.
 
 They don't have flags just flowy embellished clothing.
 
@@ -266,10 +266,10 @@ Crowd tossing stuff to get people to cheer. It's a big thing cause it's the last
 ## The Communion
 People go together but do the comunion alone.
 
-In the back of the crowd Calcite is standing with 3 other people.
+In the back of the crowd [[Calcite]] is standing with 3 other people.
 An elf, a human, and a tiefling.
 
-Calcite was assigned to a group to go to the communion.
+[[Calcite]] was assigned to a group to go to the communion.
 
 Everyone is assigned a town guard to make sure that no one soils the grounds and is safe.
 
@@ -277,7 +277,7 @@ Protect the grounds that [[The Shevet]] vehemently protect.
 
 Overhearing that someone is missing from this group. Seems like there should have been more people in the group its not uncommon for people to back out it can be scary.
 
-I talked to Calcite joining his group. He checked his rulebook. Told him I need to give make something for him after all the gold he keeps slowly giving me.
+I talked to [[Calcite]] joining his group. He checked his rulebook. Told him I need to give make something for him after all the gold he keeps slowly giving me.
 
 ---
 
@@ -307,20 +307,20 @@ Mely says to Ailuin not to bury themselves in work, don't forget to come up for 
 
 ---
 
-Katiz' handler sends a letter with "gathering at the tower huh?" there's a symbol almost a joke at Katiz saying "there's work coming why don't you follow through with this thing and maybe we'll give you more work"
+[[Katiz]]' handler sends a letter with "gathering at the tower huh?" there's a symbol almost a joke at [[Katiz]] saying "there's work coming why don't you follow through with this thing and maybe we'll give you more work"
 
-Katiz sighs:
+[[Katiz]] sighs:
 >Fucking pricks
 
-Katiz crumples the note and throws it into the fireplace. Heads towards the tower.
+[[Katiz]] crumples the note and throws it into the fireplace. Heads towards the tower.
 
 Heads towards the group gathering area.
 
-Katiz looks for a loner that seems scared?
+[[Katiz]] looks for a loner that seems scared?
 
 Finds an older man with a wooden braced leg, looks like he's had it for a long time. Standing outside the gathering area looking intently at all the other people as well. Sighing, looking at the floor, not speaking.
 
-Katiz approaches him
+[[Katiz]] approaches him
 
 > K: You looking to go in the tower?
 > *The man jumps*
@@ -338,11 +338,11 @@ Katiz approaches him
 > M: Well shit. Guess some would say I've lived long enough. FUck it why not. I'll go along with ya.
 > M: Should we find a group? Should we go ourselves?
 
-Katiz comes up with Troy,
+[[Katiz]] comes up with Troy,
 
-Renry introduces herself at  Calcite's request.
+[[Renry]] introduces herself at  [[Calcite]]'s request.
 
-Tieflings spirits are uplifted by Renry being there. Sven is his name.
+Tieflings spirits are uplifted by [[Renry]] being there. Sven is his name.
 
 Gabriella the human and Siren the elf.
 
@@ -369,9 +369,9 @@ Made of a metal that is both familiar and unfamilar.
 
 Doesn't give off sound or energy. Feels like nothing to it the only thing tha tpeople are getting from it is the experience and clearly people have gotten more from it. 
 
-Katiz did the tower when he was 18. Talks to Troy about it. Troy feels unsure he'll get anything from it. Sits down 
+[[Katiz]] did the tower when he was 18. Talks to Troy about it. Troy feels unsure he'll get anything from it. Sits down 
 
-Ask Calcite for his book.
+Ask [[Calcite]] for his book.
 
 Moat around the tower.
 
@@ -415,7 +415,7 @@ None of us can see anything. It's black.
 
 ---
 
-### Melyana's Dream
+### [[Melyana]]'s Dream
 
 Mely smells moisture and salt like the ocean. Opens her eyes and she's thousands of feet in the air looking over an ocean??? in every direction for what seems like 200 miles. The occasional cloud in the sky. But at the very edges of the horizon at her vision she can see what looks like land. But below her just ocean.
 
@@ -437,9 +437,9 @@ A shadow begins to eclipse her vision and she turns aroudn to see whats blocking
 
 ---
 
-### Renry's Dream
+### [[Renry]]'s Dream
 
-Renry feels like the transition was like entering the feywild but its not how it works even when it comes to her in dreams. Sees grass going up and back down up and back down.
+[[Renry]] feels like the transition was like entering the feywild but its not how it works even when it comes to her in dreams. Sees grass going up and back down up and back down.
 
 Approaches it. In the grass there's a scroll. Doesn't know what it says but does recognize Slyvan in the feywild.
 
@@ -451,17 +451,17 @@ Forced to reach out and grab the scroll anyway after failing the wisdom save.
 
 The white void around her changes.
 
-Wind rushes around her face it seems like she's in clouds. The scroll in her hand it pulses with a power as the script stops changing but its still a jumble of chaotic language and burns to ember in her hand. THe energy enters her through her hand and spreads through her body as she raises her arms to the sky. The clouds around her part. Below her is Eleroth. She can see forests towns but not the whole continent. 200 miles of land in each direction.
+Wind rushes around her face it seems like she's in clouds. The scroll in her hand it pulses with a power as the script stops changing but its still a jumble of chaotic language and burns to ember in her hand. THe energy enters her through her hand and spreads through her body as she raises her arms to the sky. The clouds around her part. Below her is [[Eleroth]]. She can see forests towns but not the whole continent. 200 miles of land in each direction.
 
 As her hands raise to the heavens meteors come throught he sky, pieces small pieces, larger planet shattering sizes as they all come down throught he clouds hitting the earth. Hitting villages hitteing forests, water, tidalwaves, fires, explosions. Everything annihilated in this storm of flaming meteors. She can help but smile at it as she blacks out once more.
 
 ---
 
-### Katiz' Dream
+### [[Katiz]]' Dream
 
-Katiz wakes up in a dense forest. It is freezing cold here. He has no idea where he is this is a forest he's never seen in his life. It's unnatural bent into shapes that shouldn't exist. THe foiliage is red brown yellow with green mist in. He walks around and investigates. He feels like he's only been walking for a few minutes but it physically feels like he's been walking for hours.
+[[Katiz]] wakes up in a dense forest. It is freezing cold here. He has no idea where he is this is a forest he's never seen in his life. It's unnatural bent into shapes that shouldn't exist. THe foiliage is red brown yellow with green mist in. He walks around and investigates. He feels like he's only been walking for a few minutes but it physically feels like he's been walking for hours.
 
-Katiz is now exhausted. He crosses a treeline in front of him in desert as far out as he can see. It is now blazing hot here it is unbearable. It feels like he's walked into an oven, a kiln. It... this shouldn't be here this forest shouldn't be this close to the desert.
+[[Katiz]] is now exhausted. He crosses a treeline in front of him in desert as far out as he can see. It is now blazing hot here it is unbearable. It feels like he's walked into an oven, a kiln. It... this shouldn't be here this forest shouldn't be this close to the desert.
 
 He feels like he can't walk anymore until snow begins to fall. Falling on the sand. A blizzard appears out of nowhere covering his eyes. He opens them again is on a mountain. It's back to freezing cold again. But the mountains aroudn him they don't look right either. They zigzag aroudn the earth like there's openings in the crust of the planet. 
 
@@ -489,9 +489,9 @@ Area I was standing was a floating circle mountains.
 
 ---
 
-### Calcite's Dream
+### [[Calcite]]'s Dream
 
-Calcite wakes up at a peaceful ancient temple.
+[[Calcite]] wakes up at a peaceful ancient temple.
 
 Stone pillars keeping the ceiling up. Sun comes through in radiant beams. Like breazes. peaceful Shaking trees sounds .
 
@@ -501,13 +501,13 @@ At the end of the temple there's a stone archway. Vines come from the walls wrap
 
 > Wait a minute I know what this is I'm dream walking. 
 
-Calcite closes his eyes and tries to fly.
+[[Calcite]] closes his eyes and tries to fly.
 
 For a moment it felt like he was starting to float like all his weight was gone.
 
 >Guess I need to go to wizard school for that.
 
-Calcite checks for his book.
+[[Calcite]] checks for his book.
 
 >There's nothign in the rules about this...
 
@@ -523,7 +523,7 @@ It's clear from the robes that the person isn't just about status but there's so
 
 A voice in Calcites head says "who are you you shouldn't be here"
 
-right before Calcite is pulled back through the arch losing his vision in much the same was as before but loses vision.
+right before [[Calcite]] is pulled back through the arch losing his vision in much the same was as before but loses vision.
 
 ---
 

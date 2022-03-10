@@ -2,7 +2,7 @@ Recap:
 
 Everyone celebrated during the festival. Chaos caused by some rude customers and not by others. Some enjoyed a glass of wine with friends while others enjoyed a parade. Everyone through developing of strangerly bonds through a few people decided to take a trek down to the tower together.
 
-Melyana discovered the ability to change something on the tower inevitably causing a break in the tower causing a bunch of light to eminate from the tower and the water. A bunch of folks disappeared. We had strange dreams.
+[[Melyana]] discovered the ability to change something on the tower inevitably causing a break in the tower causing a bunch of light to eminate from the tower and the water. A bunch of folks disappeared. We had strange dreams.
 
 We all woke up and are trying to figure out what happened.
 
@@ -52,15 +52,15 @@ Big wooden three story building. Looks like a place soldiers would stay when tak
 Fairly large room for a capitain
 
 ### In the guard building
-Jordel takes a statement from Melyana.
+Jordel takes a statement from [[Melyana]].
 
 Leaves to go report.
 
 We check for listening devices.
 
-Katiz implies someone may have known this was going to happen.
+[[Katiz]] implies someone may have known this was going to happen.
 
-[[Zidall]], very ornate robes in the colors of the Shevet. Human.
+[[Zidall]], very ornate robes in the colors of [[the Shevet]]. Human.
 
 Thousands of years ago the tower also did a lighty thing. 5 original individuals (voices) this has happened to before.
 
