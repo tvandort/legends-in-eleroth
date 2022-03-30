@@ -6,4 +6,3 @@
 - [ ] Put tower locks back in place? 
 - [ ] Find someone from the [[Monty bloodline]].
 - [ ] Present for Bryce
-- [ ] 
