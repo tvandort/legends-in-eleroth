@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/2022-03-30.md",
+            "file": "Sessions/2022-04-06.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2022-03-30.md",
+                "file": "Sessions/2022-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "81a9efc36dd5bac5",
   "lastOpenFiles": [
+    "Sessions/2022-04-06.md",
     "Sessions/2022-03-30.md",
-    "Sessions/2022-03-23.md",
-    "Sessions/Session Next.md",
-    "Sessions/2022-03-16.md",
-    "Sessions/2022-03-09.md",
-    "Sessions/2022-03-02.md",
+    "Stats.md",
+    "Characters/Party/Breda.md",
+    "Bruiseball.md",
+    "Eleroth.md",
     "Quests.md",
-    "Tower.md",
-    "Game.md",
-    "Sessions/2022-02-02 - Beginnings.md"
+    "Sessions/2022-03-16.md",
+    "Sessions/2022-03-23.md",
+    "Sessions/Session Next.md"
   ]
 }
