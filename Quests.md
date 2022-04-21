@@ -6,7 +6,9 @@
 - [ ] Put tower locks back in place? 
 - [ ] Find someone from the [[Monty bloodline]].
 - [ ] Present for Bryce
-
+- [ ] Investigate Horticulture academy.
+- [ ] Get healing potions ~~(and name of guy doing that)~~ (Robert Barton)
+- [x] Return Jayce's finger
 
 
 
