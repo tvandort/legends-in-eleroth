@@ -7,7 +7,7 @@
 - [ ] Find someone from the [[Monty bloodline]].
 - [ ] Present for Bryce
 - [ ] Investigate Horticulture academy.
-- [ ] Get healing potions ~~(and name of guy doing that)~~ (Robert Barton)
+- [x] Get healing potions ~~(and name of guy doing that)~~ ([[Robert Barton]])
 - [ ] Get the nurse wine.
 - [x] Return Jayce's finger
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/2022-04-27.md",
+            "file": "Sessions/2022-05-04.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "half",
+                "query": "baker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2022-04-27.md",
+                "file": "Sessions/2022-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
+    "Sessions/2022-05-04.md",
+    "Places/The Shevet.md",
+    "Sessions/2022-04-13.md",
+    "Sessions/2022-02-02 - Beginnings.md",
     "Sessions/2022-04-27.md",
-    "Sessions/2022-04-20.md",
     "Quests.md",
+    "Sessions/2022-04-20.md",
     "Sessions/Session Next.md",
     "Places/Wolfren.md",
-    "Sessions/2022-03-16.md",
-    "Sessions/2022-03-30.md",
-    "Sessions/2022-04-06.md",
-    "Sessions/2022-04-13.md",
-    "Stats.md"
+    "Sessions/2022-03-16.md"
   ]
 }
