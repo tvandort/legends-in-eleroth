@@ -6,5 +6,5 @@ Great time to make Tatania happy by doing mischevious shit.
 
 ## At the tower
 
-![[2022-02-02 - Beginnings#Renry 's Dream]]
+![[1. 2022-02-02 - Beginnings#Renry 's Dream]]
 

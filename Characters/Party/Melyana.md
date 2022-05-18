@@ -12,4 +12,4 @@ Also looking to solve a few mysteries of her own.
 
 ## At the tower
 
-![[2022-02-02 - Beginnings#Melyana 's Dream]]
+![[1. 2022-02-02 - Beginnings#Melyana 's Dream]]

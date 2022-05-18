@@ -8,5 +8,5 @@ Assigned to be there but would also be there for personal reasons to see if he c
 
 ## At the tower
 
-![[2022-02-02 - Beginnings#Katiz ' Dream]]
+![[1. 2022-02-02 - Beginnings#Katiz ' Dream]]
 
