@@ -9,6 +9,7 @@
 - [ ] Investigate Horticulture academy.
 - [x] Get healing potions ~~(and name of guy doing that)~~ ([[Robert Barton]])
 - [ ] Get the nurse wine.
+- [ ] Eventually summon Aunn with the whistle
 - [x] Return Jayce's finger
 
 
