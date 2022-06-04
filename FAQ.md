@@ -17,4 +17,16 @@
 [4. Shield arm could be restrained to counteract this](https://twitter.com/JeremyECrawford/status/537422791012663296)
 
 ## Casting from items
-[1. ]()
+[1. Casting from magic items requires no components](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems:~:text=The%20spell%20is,spell%20requires%20concentration.)
+[2. Scrolls are magic items](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems:~:text=A%20scroll%20is%20a%20consumable%20magic%20item.)
+[3. Anyone can use a scroll](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems:~:text=Unless%20a%20scroll%E2%80%99s%20description%20says%20otherwise%2C%20any%20creature%20that%20can%20understand%20a%20written%20language%20can%20read%20the%20script%20on%20a%20scroll%20and%20attempt%20to%20activate%20it.)
+[4. However ***spell** scrolls only if its on your spell list. Otherwise scroll is unintelligible](https://www.dndbeyond.com/magic-items/5418-spell-scroll#:~:text=a%20mystical%20cipher.-,If%20the%20spell%20is%20on%20your%20class%E2%80%99s%20spell%20list%2C%20you%20can%20read%20the%20scroll%20and%20cast%20its%20spell%20without%20providing%20any%20material%20components.%20Otherwise%2C%20the%20scroll%20is%20unintelligible.,-Casting%20the%20spell)
+[5. Spell scrolls do not say they need components just that they don't need material components, this does not mean they require any other components.](https://www.dndbeyond.com/magic-items/5418-spell-scroll#:~:text=is%20on%20your%20class%E2%80%99s%20spell%20list%2C-,you%20can%20read%20the%20scroll%20and%20cast%20its%20spell%20without%20providing%20any%20material%20components,-.%20Otherwise%2C%20the%20scroll%20is%20unintelligible.%20Casting)
+[6. Example scroll that is not a spell scroll](https://www.dndbeyond.com/magic-items/5398-scroll-of-protection)
+[7. Spells must have components to be perceptible](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting:~:text=To%20be%20perceptible%2C%20the%20casting%20of%20a%20spell%20must%20involve%20a%20verbal%2C%20somatic%2C%20or%20material%20component.)
+[8. If components are removed form a spell it is imperceptible](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting:~:text=If%20the%20need%20for%20a%20spell%E2%80%99s%20components%20has%20been%20removed%20by%20a%20special%20ability%2C%20such%20as%20the%20sorcerer%E2%80%99s%20Subtle%20Spell%20feature%20or%20the%20Innate%20Spellcasting%20trait%20possessed%20by%20many%20creatures%2C%20the%20casting%20of%20the%20spell%20is%20imperceptible.)
+[9. You do not know who has cast an imperceptible spell](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting:~:text=If%20an%20imperceptible%20casting%20produces%20a%20perceptible%20effect%2C%20it%E2%80%99s%20normally%20impossible%20to%20determine%20who%20cast%20the%20spell%20in%20the%20absence%20of%20other%20evidence.)
+[10. Can't really see the spell being cast if it's imperceptible, therefore can't really counter that shit](https://www.dndbeyond.com/spells/counterspell#:~:text=*%20%2D%20which%20you%20take%20when%20you%20see%20a%20creature%20within%2060%20feet%20of%20you%20casting%20a%20spell)
+
+## 
+

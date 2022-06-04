@@ -7,12 +7,8 @@
         "id": "1c10a0bfa088ca72",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FAQ.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
+    "magic.md",
     "FAQ.md",
     "Sessions/14. 2022-05-25.md",
     "Tower.md",
@@ -97,7 +93,6 @@
     "Places/The Shevet.md",
     "Places/Utheria.md",
     "Places/Wolfren.md",
-    "Quests.md",
-    "Sessions/13. 2022-05-18.md"
+    "Quests.md"
   ]
 }
