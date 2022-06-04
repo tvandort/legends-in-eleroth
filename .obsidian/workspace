@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/14. 2022-05-25.md",
+            "file": "FAQ.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/14. 2022-05-25.md",
+                "file": "FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
+    "FAQ.md",
     "Sessions/14. 2022-05-25.md",
     "Tower.md",
     "Places/Shu'Imahn.md",
@@ -97,7 +98,6 @@
     "Places/Utheria.md",
     "Places/Wolfren.md",
     "Quests.md",
-    "Sessions/13. 2022-05-18.md",
-    "Sessions/Session Next.md"
+    "Sessions/13. 2022-05-18.md"
   ]
 }
