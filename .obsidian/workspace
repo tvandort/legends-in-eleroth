@@ -7,8 +7,12 @@
         "id": "1c10a0bfa088ca72",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "FAQ.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
-    "magic.md",
     "FAQ.md",
+    "magic.md",
     "Sessions/14. 2022-05-25.md",
     "Tower.md",
     "Places/Shu'Imahn.md",

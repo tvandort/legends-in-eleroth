@@ -28,5 +28,29 @@
 [9. You do not know who has cast an imperceptible spell](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#Spellcasting:~:text=If%20an%20imperceptible%20casting%20produces%20a%20perceptible%20effect%2C%20it%E2%80%99s%20normally%20impossible%20to%20determine%20who%20cast%20the%20spell%20in%20the%20absence%20of%20other%20evidence.)
 [10. Can't really see the spell being cast if it's imperceptible, therefore can't really counter that shit](https://www.dndbeyond.com/spells/counterspell#:~:text=*%20%2D%20which%20you%20take%20when%20you%20see%20a%20creature%20within%2060%20feet%20of%20you%20casting%20a%20spell)
 
-## 
+## Spell overlaps
+[1. ]()
 
+## Cursed Items
+[1. Identify does not say if an item is cursed.](https://www.dndbeyond.com/sources/dmg/treasure#CursedItems:~:text=Most%20methods%20of%20identifying%20items%2C%20including%20the%20identify%20spell%2C%20fail%20to%20reveal%20such%20a%20curse%2C%20although%20lore%20might%20hint%20at%20it.%20A%20curse%20should%20be%20a%20surprise%20to%20the%20item%E2%80%99s%20user%20when%20the%20curse%E2%80%99s%20effects%20are%20revealed.)
+
+## Grappling and Shoving
+[1. General grappling rules](https://www.dndbeyond.com/sources/phb/combat#Grappling)
+[1. Grappler sets the DC that the target must meet to beat with either Athletics or Acrobatics](https://www.dndbeyond.com/sources/phb/combat#Grappling:~:text=A%20grappled%20creature%20can%20use%20its%20action%20to%20escape.%20To%20do%20so%2C%20it%20must%20succeed%20on%20a%20Strength%20(Athletics)%20or%20Dexterity%20(Acrobatics)%20check%20contested%20by%20your%20Strength%20(Athletics)%20check.)
+[3. Shuts down dodge if grappled.](https://www.dndbeyond.com/sources/basic-rules/combat#Dodge:~:text=You%20lose%20this%20benefit%20if%20you%20are%20incapacitated%20or%20if%20your%20speed%20drops%20to%200.)
+
+## Mounted Combat
+
+
+## Ready action
+### Ready spell action
+
+## Magic missle
+[Concentration]
+[Death saving throws]
+
+## Obscurement
+
+## Combat in general
+### Actions 
+### Free actions
