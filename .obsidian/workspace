@@ -7,12 +7,8 @@
         "id": "1c10a0bfa088ca72",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "5E is confusing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5E is confusing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
