@@ -1,4 +1,4 @@
-# FAQ
+# 5E is confusing
 ## Spells
 ### AoE Spells
 1. [Aura entering creatures space](https://dnd.wizards.com/articles/features/rules-answers-april-2016#:~:text=Does%20moonbeam%20deal%20damage%20when%20you%20cast%20it%3F%20What%20about%20when%20its%20effect%20moves%20onto%20a%20creature%3F%20The%20answer%20to%20both%20questions%20is%20no.%20Here%E2%80%99s%20some%20elaboration%20on%20that%20answer.)
@@ -49,21 +49,27 @@
 4. [Shield arm could be restrained to counteract this](https://twitter.com/JeremyECrawford/status/537422791012663296)
 
 ### Disarming
-
+ 1. [Disarming is an optional rule in the DMG.](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Disarm)
+ 
 ### Mounted
 1. [Only real restriction](https://www.dndbeyond.com/sources/phb/combat#DamageandHealing:~:text=A%20willing%20creature%20that%20is%20at%20least%20one%20size%20larger%20than%20you%20and%20that%20has%20an%20appropriate%20anatomy%20can%20serve%20as%20a%20mount%2C%20using%20the%20following%20rules.)
 2. [General rules](https://www.dndbeyond.com/sources/phb/combat#ControllingaMount)
 
-
 ### Ready action
 #### Ready spell action
-
+1. [Readying a spell uses your action and reaction.](https://www.dndbeyond.com/sources/phb/combat#:~:text=To%20do%20so%2C%20you%20can%20take%20the%20Ready%20action%20on%20your%20turn%2C%20which%20lets%20you%20act%20using%20your%20reaction%20before%20the%20start%20of%20your%20next%20turn.)
+2. [Readying a spell requires a spell of 1 action time and uses concentration.](https://www.dndbeyond.com/sources/phb/combat#:~:text=To%20be%20readied%2C%20a%20spell%20must%20have%20a%20casting%20time%20of%201%20action%2C%20and%20holding%20onto%20the%20spell%E2%80%99s%20magic%20requires%20concentration%20(explained%20in%20chapter%2010).)
 
 ### Obscurement
+1. [Fog cloud is confusing.](https://www.dndbeyond.com/sources/basic-rules/adventuring#VisionandLight:~:text=A%20heavily%20obscured%20area%2D%2Dsuch%20as%20darkness%2C%20opaque%20fog%2C%20or%20dense%20foliage%2D%2Dblocks%20vision%20entirely.%20A%20creature%20effectively%20suffers%20from%20the%20blinded%20condition%20when%20trying%20to%20see%20something%20in%20that%20area.) You are blinded which means attack rolls against you are made with advantage. [But the enemy has disadvantage to see in the cloud.](A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the [blinded](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded) condition when trying to see something in that area.) Normal rolls instead on shooting into cloud. Or fighting in the cloud. 
 
 ### Actions 
-### Free actions
+1. Two leveld spells in a turn.
 
+
+### Free actions
+1. [Other activity on your turn.](https://www.dndbeyond.com/sources/phb/combat#OtherActivityonYourTurn)
+2. [Open a door.](https://www.dndbeyond.com/sources/phb/combat#OtherActivityonYourTurn:~:text=example%2C%20you%20could-,open%20a%20door,-during%20your%20move)
 
 ## Specific Spells
 ### Magic missle
