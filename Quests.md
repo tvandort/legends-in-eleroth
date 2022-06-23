@@ -11,6 +11,8 @@
 - [ ] Get the nurse wine.
 - [ ] Eventually summon Aunn with the whistle
 - [x] Return Jayce's finger
+- [ ] Make copy of Ghor Alari mark of passage.
+
 
 
 

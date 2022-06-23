@@ -7,8 +7,12 @@
         "id": "1c10a0bfa088ca72",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/15. 2022-06-22.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dildo",
+                "query": "gabri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/15. 2022-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
-    "5E is confusing.md",
-    "magic.md",
-    "Sessions/14. 2022-05-25.md",
-    "Tower.md",
-    "Places/Shu'Imahn.md",
-    "Places/Ghor Felno.md",
-    "Places/The Shevet.md",
-    "Places/Utheria.md",
-    "Places/Wolfren.md",
-    "Quests.md"
+    "Sessions/15. 2022-06-22.md",
+    "Sessions/3. 2022-03-02.md",
+    "Sessions/4. 2022-03-09.md",
+    "Sessions/5. 2022-03-16.md",
+    "Sessions/1. 2022-02-02 - Beginnings.md",
+    "Characters/Amira Monty.md",
+    "Characters/Monty Bloodline.md",
+    "Characters/Party/Renry.md",
+    "Characters/Party/Melyana.md",
+    "Characters/Party/Katiz.md"
   ]
 }
