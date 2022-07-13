@@ -12,7 +12,10 @@
 - [ ] Eventually summon Aunn with the whistle
 - [x] Return Jayce's finger
 - [ ] Make copy of Ghor Alari mark of passage.
-- [ ] Split 18 Gold to group
+- [ ] Split 18 Gold to group 
+	- [ ] minus 3 gold from rooms
+	- [ ] minus 10 silver from horses
+	- [ ] Total: 14 gold to group
 
 
 

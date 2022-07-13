@@ -1,0 +1,18 @@
+- Level 1: Fighter 1
+- Level 2: Fighter 1 / Forge Cleric 1
+- Level 3: Fighter 1 / Forge Cleric 2
+- Level 4: Fighter 1 / Forge Cleric 3
+- Level 5: Fighter 1 / Forge Cleric 4
+	- Feat: Warcaster
+- Level 6: Fighter 1 / Forge Cleric 5
+- Level 7: Fighter 1 / Forge Cleric 5 / Divine Soul Sorcerer 1
+- Level 8 - 9: Fighter 1 / Forge Cleric 5 - 7 / Divine Soul Sorcerer 1 
+- Level 10: Fighter 1 / Forge Cleric 8 / Divine Soul Sorcerer 1
+	- Feat: Fey Touched Wisdom
+- Level 11 - 13: Fighter 1 / Forge Cleric 9 - 11 / Divine Soul Sorcerer 1
+- Level 14: Fighter 1 / Forge Cleric 12 / Divine Soul Sorcerer 1
+	- Feat: ??? with +1 wis, Skill expert? Telekinetic?
+- Level 15 - 17: Fighter 1 / Forge Cleric 13 - 15 / Divine Soul Sorcerer 1
+- Level 18: Fighter 1 / Forge Cleric 16 / Divine Soul Sorcerer 1
+	- Feat: Lucky
+- Level 19 - 20:  Fighter 1 / Forge Cleric 17 - 18 / Divine Soul Sorcerer 1

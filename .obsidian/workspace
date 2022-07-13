@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/16. 2022-06-29.md",
+            "file": "Prospective Build.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "18",
+                "query": "amir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/16. 2022-06-29.md",
+                "file": "Prospective Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
-    "Sessions/16. 2022-06-29.md",
-    "Characters/Party/Breda.md",
-    "Sessions/15. 2022-06-22.md",
-    "Quests.md",
-    "Tower.md",
     "Stats.md",
-    "Sessions/1. 2022-02-02 - Beginnings.md",
-    "Sessions/12. 2022-05-04.md",
-    "Sessions/Session Next.md",
-    "Rulings.md"
+    "Sessions/17. 2022-07-13.md",
+    "Sessions/16. 2022-06-29.md",
+    "Sessions/2. 2022-02-09 - Figures at the Base of the Tower.md",
+    "Sessions/3. 2022-03-02.md",
+    "Characters/Amira Monty.md",
+    "Quests.md",
+    "Game.md",
+    "Rulings.md",
+    "Characters/Party/Breda.md"
   ]
 }
