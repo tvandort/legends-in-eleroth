@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prospective Build.md",
+            "file": "Characters/Party/Breda.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prospective Build.md",
+                "file": "Characters/Party/Breda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1c10a0bfa088ca72",
   "lastOpenFiles": [
+    "Prospective Build.md",
     "Characters/Lahrahn.md",
     "Sessions/17. 2022-07-13.md",
     "Characters/Gor Alari/Gabriella.md",
@@ -97,7 +98,6 @@
     "Game.md",
     "Stats.md",
     "Sessions/16. 2022-06-29.md",
-    "Prospective Build.md",
     "Sessions/2. 2022-02-09 - Figures at the Base of the Tower.md"
   ]
 }
