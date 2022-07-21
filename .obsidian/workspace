@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Letters/Bryce/866 - Beptember, DAY 1.md",
+            "file": "Sessions/18. 2022-07-20.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whistle",
+                "query": "urgl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Letters/Bryce/866 - Beptember, DAY 1.md",
+                "file": "Sessions/18. 2022-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c10a0bfa088ca72",
+  "active": "2fec52f13f2502e4",
   "lastOpenFiles": [
-    "Sessions/18. 2022-07-20.md",
+    "Characters/Ghor Felno/Gabriella.md",
+    "Sessions/16. 2022-06-29.md",
     "Places/Ghor Felno.md",
+    "Sessions/18. 2022-07-20.md",
+    "Letters/Bryce/866 - Beptember, DAY 1.md",
     "Sessions/17. 2022-07-13.md",
     "Letters/Fianna/866 - Beptember, DAY 1.md",
-    "Letters/Bryce/866 - Beptember, DAY 1.md",
     "Letters/Fianna/Fianna's Request.md",
     "Characters/Party/Breda.md",
-    "Prospective Build.md",
-    "Characters/Lahrahn.md",
-    "Characters/Gor Alari/Gabriella.md"
+    "Prospective Build.md"
   ]
 }
