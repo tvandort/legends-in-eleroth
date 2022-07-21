@@ -8,6 +8,8 @@ about 6ft
 ## Backstory
 Crafting Guild Breda learned with: Earthbraid Guild
 
+Earthbraid Symbol: Planet with braided chains wrapped around it
+
 ### Relationships
 Mother: Fianna
 Best Friend / Business Partner: Bryce
