@@ -1,6 +1,6 @@
 Bryce,
 
-Made it to Ghor'Alari! Unfortunately we're moving slower than I'd like but we're here right when we need to be. I hope you're managing alright without me being there. I have some good news and some bad news.
+Made it to Ghor Alari! Unfortunately we're moving slower than I'd like but we're here right when we need to be. I hope you're managing alright without me being there. I have some good news and some bad news.
 
 The bad news is that this is taking way longer than I expected it to and seems to be significantly more dangerous as well. I wish I could elaborate more but I don't think it's safe to do so just... keep an eye out and keep yourself safe okay?
 
